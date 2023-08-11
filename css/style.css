@@ -589,3 +589,20 @@ h6,
 .footer .footer-menu a:hover {
     color: var(--secondary);
 }
+
+
+
+/* Mobile Design */
+.image2{
+   display: none;
+}
+
+@media only screen and (max-width: 991px){ //some value
+   .image1{
+     display: none;
+   }
+
+   .image2{
+     display: block;
+   }
+}
