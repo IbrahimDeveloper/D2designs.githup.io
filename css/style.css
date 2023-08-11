@@ -598,11 +598,11 @@ h6,
 }
 
 @media only screen and (max-width: 991px){ //some value
-   .image1{
+   #image1{
      display: none;
    }
 
-   .image2{
+   #image2{
      display: block;
    }
 }
