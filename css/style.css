@@ -244,21 +244,21 @@ h6,
     font-weight: 500;
     text-transform: uppercase;
 }
-
+/* 
 .section-title span:first-child,
 .section-title span:last-child {
     position: relative;
     display: inline-block;
-    margin-right: 30px;
-    width: 30px;
-    height: 2px;
+    margin-right: 0px;
+    width: 0px;
+    height: 0px;
 }
 
 .section-title span:last-child {
     margin-right: 0;
-    margin-left: 30px;
+    margin-left: 0px;
 }
-
+*/
 .section-title span:first-child::after,
 .section-title span:last-child::after {
     position: absolute;
